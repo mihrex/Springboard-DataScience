@@ -118,6 +118,7 @@ INNER JOIN Facilities ON Bookings.facid = Facilities.facid
 AND Bookings.starttime LIKE  '2012-09-14%'
 INNER JOIN Members ON Bookings.memid = Members.memid
 )sub
+
 WHERE sub.cost >30
 ORDER BY sub.cost DESC
 
