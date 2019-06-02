@@ -14,6 +14,6 @@
    + Linear Regression - Boston Housing Data
    + Logistic Regression
    + Naive Bayes - Rotten Tomatoes
-   + Clustering - Wine Data
+   + Clustering - Customer Segmentation
 
 © 2019 GitHub, Inc.
