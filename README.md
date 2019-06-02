@@ -1,1 +1,1 @@
-# Springboard
+Mini Projects
