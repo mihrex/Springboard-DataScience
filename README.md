@@ -8,6 +8,7 @@ of different houses in Kings County, USA. Based on certain features of the house
 area in square feet, the condition of the house, number of bedrooms, number of bathrooms, number
 of floors, year of built, I have tried to predict the estimated price of the house.
 
+# 
 
 # MiniProjects
 
