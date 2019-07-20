@@ -20,7 +20,9 @@ The approach to solving this problem is subject to change as I progress with car
 1. Data collecting: downloading all the data provided by Airbnb to local. 
 2. Data Wrangling: data cleaning, seek mistakes in data, look for peculiar behavior, fix missing data. 
 3. Data exploration: use of classification, inferential statistics and data visualization to find interesting trends and identify significant features in the data set. 
-4. Data Analysis: data manipulation and modeling. 5. Complete and submit final deliverables 
+4. Data Analysis: data manipulation and modeling. 
+5. Complete and submit final deliverables 
+
 ## Deliverables:
 
 The deliverables will be the codes and visualization techniques on GitHub in the form of Jupyter Notebooks, and a slide desk. This will include a report and I intend to write a documentation explaining the code and the results.
