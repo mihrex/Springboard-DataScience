@@ -1,6 +1,6 @@
 ## Airbnb-New-User-Bookings ##
 
-#### New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand. Airbnb is the client of this project, the goal is to predict in which country a new user will make his or her first booking so to better forecast demand and therefore increase revenue. ####
+New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand. Airbnb is the client of this project, the goal is to predict in which country a new user will make his or her first booking so to better forecast demand and therefore increase revenue. 
 
 ## Dataset ###
 
@@ -21,6 +21,6 @@ The approach to solving this problem is subject to change as I progress with car
 2. Data Wrangling: data cleaning, seek mistakes in data, look for peculiar behavior, fix missing data. 
 3. Data exploration: use of classification, inferential statistics and data visualization to find interesting trends and identify significant features in the data set. 
 4. Data Analysis: data manipulation and modeling. 5. Complete and submit final deliverables 
-## Deliverables:##
+## Deliverables:
 
 The deliverables will be the codes and visualization techniques on GitHub in the form of Jupyter Notebooks, and a slide desk. This will include a report and I intend to write a documentation explaining the code and the results.
