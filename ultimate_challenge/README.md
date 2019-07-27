@@ -13,6 +13,6 @@ However, a toll bridge, with a two­way toll, between the two cities causes driv
 
 - What would you choose as the key measure of success of this experiment in encouraging driver partners to serve both cities, and why would you choose this metric?
 - Describe a practical experiment you would design to compare the effectiveness of the proposed change in relation to the key measure of success. Please provide details on:
--- how you will implement the experiment
--- what statistical test(s) you will conduct to verify the significance of the observation
--- how you would interpret the results and provide recommendations to the city operations team along with any caveats.
+  - how you will implement the experiment
+  - what statistical test(s) you will conduct to verify the significance of the observation
+  - how you would interpret the results and provide recommendations to the city operations team along with any caveats.
